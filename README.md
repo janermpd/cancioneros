@@ -45,3 +45,4 @@ Este repositorio centraliza todas las versiones del cancionero para facilitar:
 ## 🙌 Centro Janer
 
 Movimiento de la Palabra de Dios
+Desarrollo: [Leo Caravaggio](https://github.com/LCaravaggio)
